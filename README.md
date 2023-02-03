@@ -6,8 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [reyhanboydag@gmail.com](mailto:reyhanboydag@gmail.com)
-* 🚀  I'm currently working on [Bitmatrix](http://github.com/bit-matrix)
-
+* 🚀  I'm currently working on T.O.M
 ### Skills
 
 
